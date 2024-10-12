@@ -22,4 +22,4 @@ This project focuses on detecting email spam using machine learning techniques. 
 ## Instructions to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Email-Spam-Detection.git
+   git clone https://github.com/mehulk21/Email-Spam-Detection.git
