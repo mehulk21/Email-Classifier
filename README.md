@@ -1,4 +1,4 @@
-# Email Spam Detection Project
+# Email Classifier Project
 
 ## Overview
 This project focuses on detecting email spam using machine learning techniques. It consists of two major steps:
